@@ -31,15 +31,8 @@ from this repository;
 }
 ```
 
-or from the official repository;
+or perhaps from the original writer, [Dave Li](https://github.com/daveli), himself;
 
-```json
-{
-    "name": "kubica/com_debates",
-    "type": "vcs",
-    "url": "https://github.com/moyoweb/com_debates.git"
-}
-```
 
 The require section should contain the following line:
 
