@@ -1,0 +1,17 @@
+{
+    "name": "kubica/com_debates",
+    "type": "joomlatools-installer",
+    "description": "Debates Front & Back",
+    "keywords": ["joomla", "nooku", "categories"],
+    "homepage": "https://github.com/kedweber/com_debates",
+    "authors": [
+        {
+            "name": "Dave Li",
+            "email": "info@kubica.nl",
+            "homepage": "http://www.kubica.nl"
+        }
+    ],
+    "require": {
+        "joomlatools/installer": "*"
+    }
+}
